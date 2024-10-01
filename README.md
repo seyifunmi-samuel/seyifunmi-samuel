@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seyifunmi-samuel
-- 👀 I’m interested in data analyticd
+- 👀 I’m interested in data analytics
 - 🌱 I’m currently learning google data analytic certificate
 - 💞️ I’m looking to collaborate on any data analysis projects available
 - 📫 How to reach me via email ayomosaibu213@gmail.com
